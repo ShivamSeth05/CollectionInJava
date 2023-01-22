@@ -9,8 +9,8 @@ Read and Display product Object Using Set<E>
 2. Remove Product
 
 
-/*
- * 
+ # Program:2
+ 
  * Create a method that accepts a character array and count the number of times each
  *  character is present in the array. Add how many times each character is present 
  *  to a hash map with the character as key and the repetitions count as value
@@ -26,9 +26,9 @@ Output: Will be hashmap with the following contents{‘A’:1,’P’:2,’L’:
 //Java program to count frequencies of
 //characters in string using Hashmap
 
-
+ # Program:1
 /*
- * Program:1
+
 A school offers medals to the students of tenth based on the following criteria 
 If(Marks>=90) : Gold 
 If(Marks between 80 and 90) : Silver 
