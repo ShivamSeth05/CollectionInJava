@@ -8,6 +8,13 @@ Read and Display product Object Using Set<E>
 1. Add Product<br>
 2. Remove Product
 
+=====Choice(sorting)====<br>
+1.name<br>
+2.price<br>
+3.qty<br>
+4.exit<br>
+Enter the Choice:<br>
+
 
  # Program:2
  
